@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-  pull_request: write
+  pull-requests: write
 
 jobs:
   python-coverage:
